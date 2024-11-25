@@ -1,8 +1,8 @@
-package com.example.examplemod;
+package me.pixeldots.f1hands;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class F1Hands implements ModInitializer {
     
     @Override
     public void onInitialize() {

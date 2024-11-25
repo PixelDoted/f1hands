@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package me.pixeldots.f1hands.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import me.pixeldots.f1hands.Constants;
+import me.pixeldots.f1hands.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

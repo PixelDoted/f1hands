@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package me.pixeldots.f1hands.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import me.pixeldots.f1hands.platform.services.IPlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 public class FabricPlatformHelper implements IPlatformHelper {

@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package me.pixeldots.f1hands.platform.services;
 
 public interface IPlatformHelper {
 
